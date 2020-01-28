@@ -1,1 +1,1 @@
-# Git pratice
+# Getting Git
